@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bb5b4fa.css",
+    "main.js": "/static/js/main.9ec5f07d.js",
+    "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
+    "static/media/c4.png": "/static/media/c4.4e8db05ac7947ae76f43.png",
+    "static/media/diwafinal.jpg": "/static/media/diwafinal.c65d5a802d7bb2b09f80.jpg",
+    "static/media/c6.png": "/static/media/c6.7aacb57d3e090ebd364e.png",
+    "static/media/c1.png": "/static/media/c1.7e39b32da7b2586f5e3d.png",
+    "static/media/c3.png": "/static/media/c3.6328b441ba737b62ef8e.png",
+    "static/media/port.png": "/static/media/port.c845291fd31ad4844d8a.png",
+    "static/media/c5.png": "/static/media/c5.7996b8efc6016dc66103.png",
+    "static/media/shoploop.png": "/static/media/shoploop.80e57eaec30ccf233a5f.png",
+    "static/media/c2.png": "/static/media/c2.7f96fb71962410c2234e.png",
+    "static/media/pexels-pixabay-268533.jpg": "/static/media/pexels-pixabay-268533.d2bc746f4f8b777df46c.jpg",
+    "static/media/diwafinalresume.pdf": "/static/media/diwafinalresume.8bf30168a5b519b4a5a3.pdf",
+    "static/media/portfolio-r.png": "/static/media/portfolio-r.3341c3449124df2eaefa.png",
+    "static/media/drum.png": "/static/media/drum.2cc9be9c3483195079ad.png",
+    "static/media/dice.png": "/static/media/dice.61e41a712cbae2235f3c.png",
+    "static/media/resume.png": "/static/media/resume.1df8a86a996f9eb5d051.png",
+    "static/media/clock.png": "/static/media/clock.9af52d616d35ef0e2ca2.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2bb5b4fa.css.map": "/static/css/main.2bb5b4fa.css.map",
+    "main.9ec5f07d.js.map": "/static/js/main.9ec5f07d.js.map",
+    "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb5b4fa.css",
+    "static/js/main.9ec5f07d.js"
+  ]
+}
